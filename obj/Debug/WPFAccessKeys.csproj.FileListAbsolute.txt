@@ -1,0 +1,16 @@
+C:\Users\theav\source\repos\WPFAccessKeys\bin\Debug\WPFAccessKeys.exe.config
+C:\Users\theav\source\repos\WPFAccessKeys\bin\Debug\WPFAccessKeys.exe
+C:\Users\theav\source\repos\WPFAccessKeys\bin\Debug\WPFAccessKeys.pdb
+C:\Users\theav\source\repos\WPFAccessKeys\obj\Debug\WPFAccessKeys.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\WPFAccessKeys\obj\Debug\WPFAccessKeys.csproj.SuggestedBindingRedirects.cache
+C:\Users\theav\source\repos\WPFAccessKeys\obj\Debug\MainWindow.g.cs
+C:\Users\theav\source\repos\WPFAccessKeys\obj\Debug\App.g.cs
+C:\Users\theav\source\repos\WPFAccessKeys\obj\Debug\WPFAccessKeys_MarkupCompile.cache
+C:\Users\theav\source\repos\WPFAccessKeys\obj\Debug\WPFAccessKeys_MarkupCompile.lref
+C:\Users\theav\source\repos\WPFAccessKeys\obj\Debug\MainWindow.baml
+C:\Users\theav\source\repos\WPFAccessKeys\obj\Debug\WPFAccessKeys.g.resources
+C:\Users\theav\source\repos\WPFAccessKeys\obj\Debug\WPFAccessKeys.Properties.Resources.resources
+C:\Users\theav\source\repos\WPFAccessKeys\obj\Debug\WPFAccessKeys.csproj.GenerateResource.cache
+C:\Users\theav\source\repos\WPFAccessKeys\obj\Debug\WPFAccessKeys.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\WPFAccessKeys\obj\Debug\WPFAccessKeys.exe
+C:\Users\theav\source\repos\WPFAccessKeys\obj\Debug\WPFAccessKeys.pdb

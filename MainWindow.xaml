@@ -1,0 +1,33 @@
+﻿<Window x:Class="WPFAccessKeys.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFAccessKeys"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="200" Width="400">
+    <!--<StackPanel Margin="20">
+        <Label Content="_First name:" Target="{Binding ElementName=txtFirstName}"/>
+        <TextBox Margin="20,0,20,0"/>
+        <Label Content="_Last name:" Target="{Binding ElementName=txtlastName}"/>
+        <TextBox Margin="20,0,20,0"/>
+        <Button Content="_Save" Margin="40,20,40,0"></Button>
+    </StackPanel>-->
+
+    <StackPanel Margin="20">
+        <Label Target="{Binding ElementName=txtNew}">
+            <Button Name="BtnNew" Content="_New" Width="155" Margin="90,0" Click="BtnNew_Click"/>
+        </Label>
+        <Label Target="{Binding ElementName=txtOpen}">
+            <Button Name="BtnOpen" Content="_Open" Width="155" Margin="90,0" Click="BtnOpen_Click"/>
+        </Label>
+        <Label Target="{Binding ElementName=txtSave}">
+            <Button Name="BtnSave" Content="_Save" Width="155" Margin="90,0" Click="BtnSave_Click"/>
+        </Label>
+        <Label Target="{Binding ElementName=txtSave}">
+            <Button Name="BtnSaveAs" Content="Save _As" Width="155" Margin="90,0" Click="BtnSaveAs_Click"/>
+        </Label>
+    </StackPanel>
+
+</Window>
